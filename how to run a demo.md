@@ -1,4 +1,6 @@
+```
 cd /opt/plane
+```
 <br\>以背景方式运行app, 在命令行最后添加&
 ```
 ./plane_applixxx.sh  &
