@@ -9,8 +9,8 @@ $ sudo apt install gcc-arm-none-eabi
 $ git clone https://github.com/atmelcorp/atmel-software-package.git
 <br/>
 3). Cross compile getting_started application in softpack:
-$ cd atmel-software-package/examples/getting_started
-$ make TARGET=sama5d27-som1-ek CROSS_COMPILE=arm-none-eabi-
-After compiling successful, binary file getting-started.bin should be found in atmel-software-package/examples/getting_started/build/sama5d27-som1-ek/sram/
+<br/>$ cd atmel-software-package/examples/getting_started
+<br/>$ make TARGET=sama5d27-som1-ek CROSS_COMPILE=arm-none-eabi-
+<br/>After compiling successful, binary file getting-started.bin should be found in atmel-software-package/examples/getting_started/build/sama5d27-som1-ek/sram/
 
 
